@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Next.js</a> on{' '}
+          Welcome to <a href="https://nextjs.org">Next.jss</a> on{' '}
           <a href="https://gitpod.io/" style={{ color: '#FFB45B' }}>
             Gitpod!
           </a>
